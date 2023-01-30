@@ -1,0 +1,2 @@
+names = {"Hola", "Adios", "Adios"}
+print(names)
